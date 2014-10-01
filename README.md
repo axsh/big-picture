@@ -17,7 +17,7 @@ xxx TODO: Draw picture to explain relation on the modules.
 
 * [openvnet](https://github.com/axsh/openvnet) - Data Center Level Virtual Network Toolkit.
 
-## CI
+## Continuous Integration (CI)
 
 xxx TODO: Draw picture to explain the workflow.
 
