@@ -15,6 +15,10 @@ xxx TODO: Draw picture to explain relation on the modules.
 
 xxx TODO: Draw picture to explain relation on the modules.
 
+```
+vmbuilder => box(s) => wakame-ci-cluster => running on our CI servers
+```
+
 * [openvnet](https://github.com/axsh/openvnet) - Data Center Level Virtual Network Toolkit.
 
 ## Continuous Integration (CI)
