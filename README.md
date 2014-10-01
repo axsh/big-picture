@@ -15,15 +15,15 @@ xxx TODO: Draw picture to explain relation on the modules.
 
 xxx TODO: Draw picture to explain relation on the modules.
 
-```
-vmbuilder => box(s) => wakame-ci-cluster => running on our CI servers
-```
-
 * [openvnet](https://github.com/axsh/openvnet) - Data Center Level Virtual Network Toolkit.
 
 ## Continuous Integration (CI)
 
 xxx TODO: Draw picture to explain the workflow.
+
+```
+vmbuilder => box(s) => wakame-ci-cluster => running on our CI servers
+```
 
 * [buildbook-rhel6-test](https://github.com/hansode/buildbook-rhel6-test) - Test Buildbook for RHEL6
 * [buildbook-rhel6](https://github.com/hansode/buildbook-rhel6) - Buildbook for RHEL6
