@@ -30,3 +30,7 @@ vmbuilder => box(s) => wakame-ci-cluster => running on our CI servers
 * [buildshelf-rhel6-setup](https://github.com/hansode/buildshelf-rhel6-setup) - buildbook-rhel6 based building framework setup script
 * [kemukins-box-rhel6](https://github.com/wakameci/kemukins-box-rhel6) - Kemukins build environment provides rpmbuild and vmimage file build.
 * [vmbuilder](https://github.com/hansode/vmbuilder) - builds virtual machines from the command line.
+
+## Testing
+
+xxx TODO
