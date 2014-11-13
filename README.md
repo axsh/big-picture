@@ -16,6 +16,8 @@ xxx TODO: Draw picture to explain relation on the modules.
 xxx TODO: Draw picture to explain relation on the modules.
 
 * [openvnet](https://github.com/axsh/openvnet) - Data Center Level Virtual Network Toolkit.
+* [openvnet-testspec](https://github.com/axsh/openvnet-testspec) - OpenVNet Integration Test Specifications.
+* [vnet-from-scratch](https://github.com/axsh/vnet-from-scratch) - Run OpenVNet system on LiveCD image and KVM.
 
 ## Continuous Integration (CI)
 
