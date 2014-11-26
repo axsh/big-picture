@@ -14,10 +14,6 @@ xxx TODO: Draw picture to explain relation on the modules.
 * [isono](https://github.com/axsh/isono) - A messaging and agent fabric.
 * [fuguta](https://github.com/axsh/fuguta) - Configuration framework for Ruby programs.
 
-#### Packages
-
-xxx TODO
-
 ### OpenVNet
 
 xxx TODO: Draw picture to explain relation on the modules.
@@ -28,15 +24,11 @@ xxx TODO: Draw picture to explain relation on the modules.
 * [openvnet-testspec](https://github.com/axsh/openvnet-testspec) - OpenVNet Integration Test Specifications.
 * [vnet-from-scratch](https://github.com/axsh/vnet-from-scratch) - Run OpenVNet system on LiveCD image and KVM.
 
-#### Packages
-
-xxx TODO
-
 ### Middleware
 
 xxx TODO
 
-#### Packages
+## Release Process
 
 xxx TODO
 
