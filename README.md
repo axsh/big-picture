@@ -41,6 +41,7 @@ xxx TODO
 * [kemukins-box-rhel6](https://github.com/wakameci/kemukins-box-rhel6) - Kemukins build environment provides rpmbuild and vmimage file build.
 * [buildbook-rhel6-test](https://github.com/hansode/buildbook-rhel6-test) - Test Buildbook for RHEL6.
 * [buildshelf-rhel6-setup](https://github.com/hansode/buildshelf-rhel6-setup) - buildbook-rhel6 based building framework setup script.
+* [vmapp-vdc-1box](https://github.com/axsh/vmapp-vdc-1box "axsh/vmapp-vdc-1box") - Wakame-vdc demobox/testbox.
 
 ## Testing
 
